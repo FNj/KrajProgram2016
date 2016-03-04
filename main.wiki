@@ -168,8 +168,6 @@
 ==== Vyřešíme financování zdravotnictví ====
   ** **Hlavním problémem zdravotnictví je korupce a s ní spojené zbytečné výdaje.**
    .. Kraje jsou zřizovateli krajských nemocnic. Prosazujeme zavedení  modelu [[:program:transparence|transparentní organizace]]. To znamená, že nemocnice by měly povinnost zveřejňovat všechny smlouvy na Internetu a hospodařily by s transparentním bankovním účtem. Zveřejněny nebudou jen ty informace, které zákon o svobodném přístupu k informacím zveřejnit neumožňuje (soukromí,   osobní údaje). Vedle transparentního financování odstraníme závislost na konkrétních dodavatelích, ať už právní nebo faktickou, např. podpoříme rozšíření svobodného softwaru.
-   ** **Regulační poplatky v současné podobě neřeší financování  zdravotnictví. Nebudeme je však proplácet z peněz kraje, protože to je  nezákonné a finanční problémy  zdravotnictví to zhoršuje.**
-   .. Některé poplatky jsou nesmyslné, protože  nemají regulační efekt, jiné komplikují přístup k akutnímu ošetření (placení předem). Regulační poplatky byly obhajovány tím, že senioři využívají čekárny  zdravotnických zařízení pro diskusi a sociální kontakt. Diskusi a sociální kontakt je však potřeba zajistit jinými prostředky, naopak je lehkovážné, že životní zkušenosti seniorů zůstávají nevyužité. Rozhodně však nepodporujeme placení poplatků z krajských peněz,  protože tím kraje obcházejí zákonodárnou pravomoc parlamentu.  
 
 ==== Osobní přístup v sociálních službách  ====
    ** **Stejně jako pro kvalitní zdravotní péči nestačí vždy jen pobyt v nemocnici, pro kvalitní sociální péči o seniory nestačí domov důchodců. Při poskytování péče podporujeme osobní přístup.**
