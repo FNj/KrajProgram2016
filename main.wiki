@@ -1,5 +1,7 @@
 ====== Společný program pro krajské volby 2016 ======
 
+<note warning>Tento dokument je pouze návrh. Neprošel schválení příslušným orgánem strany.</note>
+
 **Naším cílem je kraj nové generace, kde může každý člověk svůj život prožít svobodně a naplno. Klíčem k prosperitě naší společnosti je otevřenost, transparentnost, svoboda informací, kvalitní veřejné služby, použití nových technologií a zapojení občanů do rozhodování. Piráti nabízí alternativu kraje bez korupce, nesmyslných dotací, politických trafik a klientelismu. Chceme, aby krajské úřady nebyly pro aktivní občany byrokratickou překážkou, nýbrž příležitostí zapojit se do veřejného dění a kultivace svého okolí. **
 
 ===== Otevřeme hospodaření kraje =====
@@ -108,7 +110,7 @@
    .. Není potřeba vynalézat kolo. Pokud je nějaký projekt úspěšný, měl by být dostatečně propagován, aby ho mohly realizovat ostatní kraje či obce. Proto podporujeme jejich vzájemnou větší komunikaci. Užitečné je také čerpat inspiraci ze zahraničí, kde mají často větší zkušenosti.
 
 ===== Prosadíme moderní technologie =====
-{{digitalnikraj.jpg|Digitální kraj}}
+{{:volby2012:digitalnikraj.jpg|Digitální kraj}}
 ==== Usnadníme občanům styk s úřady ====
    ** **Informovaný a angažovaný občan je největším spojencem efektivní státní správy. Umožníme každému se takovým občanem stát a zajišťovat spolu s ostatními nestranný dohled nad státní správou.**
    .. Zavedeme elektronické systémy zajištující komunikaci a aktivní zapojení široké veřejnosti ve správě kraje a budeme podporovat obdobný vývoj i na obecní úrovni. Umožníme občanům se elektronicky sdružovat na místním principu a diskutovat s politiky problémy, které se jich týkají.
@@ -169,7 +171,7 @@
    .. Věda a výzkum jsou klíčovým bodem programů Pirátů a jejich podporu je třeba zohlednit i na krajské úrovni. Pokud veřejná vysoká škola potřebuje vybudovat nový kampus pro studenty nebo zřídit moderní laboratoře, kraj by jí měl vyjít vstříc a pamatovat na tyto potřeby při schvalování zásad územního rozvoje a v přidělování dotací.
 
 ===== Zajistíme kvalitní zdravotní a sociální služby =====
-{{zdravotnictvi.jpg|Operace}}
+{{:volby2012:zdravotnictvi.jpg|Operace}}
 ==== Vyřešíme financování zdravotnictví ====
   ** **Hlavním problémem zdravotnictví je korupce a s ní spojené zbytečné výdaje.**
    .. Kraje jsou zřizovateli krajských nemocnic. Prosazujeme zavedení  modelu [[:program:transparence|transparentní organizace]]. To znamená, že nemocnice by měly povinnost zveřejňovat všechny smlouvy na Internetu a vedly otevřené účetnictví. Zveřejněny nebudou jen ty informace, které zákon o svobodném přístupu k informacím zveřejnit neumožňuje (soukromí - osobní údaje). Vedle transparentního financování odstraníme závislost na konkrétních dodavatelích, ať už právní nebo faktickou, např. podpoříme rozšíření svobodného softwaru.
@@ -190,7 +192,7 @@
    .. Moderní technologie nabízejí nové přístupy, jak lidem hledání práce usnadnit, pokud o ni mají sami zájem. Velkým demografickým problémem je zejména nezaměstnanost mladých lidí, kterým chybí praxe, a lidí ve středním věku, kteří opustili dlouhodobé zaměstnání. Současný systém evidence uchazečů o zaměstnání na Úřadu práce České republiky je zastaralý a neodpovídá moderním potřebám trhu práce. Kraj by měl v této problematice spolupracovat s obcemi i státními orgány, aby lidé i podniky měli co nejvíce aktuálních informací z trhu  práce. Na programy zaměstnanosti lze čerpat evropské dotace.
 
 ===== Chráníme životní prostředí =====
-{{zivotniprostredi.jpg|Ropná rafinerie}}
+{{:volby2012:zivotniprostredi.jpg|Ropná rafinerie}}
 ==== Odstraňujeme ekologické zátěže ====
   ** **Recyklace se musí vyplatit přímo těm, kteří mají snahu recyklovat.**  
    .. Smyslem nakládání s odpady není jejich likvidace, ale naopak maximální zhodnocení. Doposud z odpadů takto  využíváme pouze zlomek z možného energetického a jiného potenciálu. Chceme vytvořit lepší motivaci pro ekologické hospodaření s odpady.
