@@ -7,8 +7,8 @@
 ===== Otevřeme hospodaření kraje =====
 {{:volby2012:otevreny_stat.jpg?nolink|Otevřené hospodaření}}
 ==== Zprůhledníme financování ====
-  ** **Zveřejňujeme vše, co můžeme; ne jen to, co musíme.**
-   .. Podle //Transparency International// se až 25 % z veřejných rozpočtů vynakládá neúčelně, na nadbytečné výdaje a korupci. Zveřejňování smluv nyní již upravuje zákon o registru smluv; my ovšem chceme zveřejňovat smlouvy i nad rámec povinností dle tohoto zákona, tedy i ty s hodnotou nižší než 50 000 Kč. Zároveň hodláme zveřejňovat i faktury, které vypovídají o reálných částkách vyplacených na základě smluvních vztahů.
+  ** **Zveřejňujeme vše, co můžeme, ne jen to, co musíme.**
+   .. Podle //Transparency International// se až 25 % z veřejných rozpočtů vynakládá neúčelně, na nadbytečné výdaje a korupci. Zveřejňování smluv nyní již upravuje zákon o registru smluv, my ovšem chceme zveřejňovat smlouvy i nad rámec povinností dle tohoto zákona, tedy i ty s hodnotou nižší než 50 000 Kč. Zároveň hodláme zveřejňovat i faktury, které vypovídají o reálných částkách vyplacených na základě smluvních vztahů.
   ** **Zavedeme transparentní účetnictví kraje.**
    .. Občané  dnes nemají šanci zjistit, kolik peněz bylo komu a za co  zaplaceno. Chceme, aby kraj přešel k využívání otevřeného účetnictví všude tam, kde to zákon dovoluje. Všichni tak budou moci kontrolovat, za co konkrétně se finanční prostředky kraje utrácejí. Pro společnosti, ve kterých je většinovým vlastníkem kraj, musí platit stejné povinnosti otevřeného hospodaření jako pro kraj samotný.
   ** **Všechny veřejné zakázky budou skutečně veřejné.**
@@ -16,7 +16,7 @@
   ** **Rozšíříme informace zveřejňované o dotacích.**
    .. U poskytnutých dotací budeme zveřejňovat i jejich vyúčtování, aby každý viděl, kam veřejné prostředky nakonec doputovaly.
   ** **Podpoříme internetové aukce a další moderní nástroje pro veřejné zakázky.**
-   .. Výběrová řízení na služby, které nabízí velký počet poskytovatelů, by měla probíhat formou internetové aukce. Kraj stanoví nejvyšší cenu, kterou je ochoten zaplatit a způsob zohlednění kvality služeb v aukci. Nabídky dodavatelů budou okamžitě oceněny a  zveřejněny. Dojde k urychlení výběrových řízení a každý občan bude mít přehled, kdo a za kolik měl o zakázku zájem. Regionální příslušnost firmy je pouhým parametrem, který může znamenat výhodu v řízení, nikoliv základním  výběrovým kritériem, jak je tomu často doposud. Podobným parametrem je i předchozí zkušenost s dodavatelem.
+   .. Výběrová řízení na služby, které nabízí velký počet poskytovatelů, by měla probíhat formou internetové aukce. Kraj stanoví nejvyšší cenu, kterou je ochoten zaplatit, a způsob zohlednění kvality služeb v aukci. Nabídky dodavatelů budou okamžitě oceněny a  zveřejněny. Dojde k urychlení výběrových řízení a každý občan bude mít přehled, kdo a za kolik měl o zakázku zájem. Regionální příslušnost firmy je pouhým parametrem, který může znamenat výhodu v řízení, nikoliv základním  výběrovým kritériem, jak je tomu často doposud. Podobným parametrem je i předchozí zkušenost s dodavatelem.
 
 ==== Budeme hospodařit efektivně ====
   ** **Povedeme úřady a organizace zřízené krajem k úspornému hospodaření.**
@@ -38,7 +38,7 @@
   ** **Občané se dovědí, jak moc pracujeme a s kým se scházíme.**
    .. Budeme zveřejňovat seznam schůzek s lobbisty, kolik hodin pracujeme a čím se zrovna zabýváme. Občané také budou vědět, kolik peněz od kraje dostáváme.
   ** **Poženeme úředníky k odpovědnosti za svoje jednání.**
-   .. Budeme důsledně uplatňovat nápravné a sankční prostředky proti úředníkům, kteří porušují zákon a zejména, když porušením zákona způsobili škodu.
+   .. Budeme důsledně uplatňovat nápravné a sankční prostředky proti úředníkům, kteří porušují zákon, zejména, pokud porušením zákona způsobili škodu.
 ===== Zapojíme občany do rozhodování =====
 {{:volby2012:zapojeni_obcanu.jpg|Zapojení občanů}}
 
@@ -60,7 +60,7 @@
   ** **Zásady územního rozvoje a související územní plány budeme graficky  prezentovat na webu.**
    .. Stejně přehledně jako u textových informací chceme prezentovat návrhy zásad  územního rozvoje a příslušných územních plánů, aby byly přehledně a rychle pro občany dostupné. Vedle toho musí existovat možnost se přihlásit k odběru aktualizací v okolí svého bydliště.
   ** **Spustíme portál otevřených dat.**
-   .. Informace budeme zveřejňovat ve formátu otevřených dat. Budou tak strojově čitelné a kdokoliv s nimi bude moci dále pracovat. Tím podpoříme vývoj různých aplikací neziskovým i soukromým sektorem a zvýšíme celkovou informovanost o kraji.
+   .. Informace budeme zveřejňovat ve formátu otevřených dat. Budou tak strojově čitelné a kdokoliv s nimi bude moci dále pracovat. Podpoříme tím vývoj různých aplikací veřejným i soukromým sektorem a zvýšíme celkovou informovanost o kraji.
 
 ==== Vyjdeme vstříc aktivním občanům  ====
   ** **Podporujeme skutečné krajské referendum a občanskou iniciativu.**
@@ -79,8 +79,8 @@
    .. Poskytování kvalitních veřejných služeb je hlavním cílem územní samosprávy. Úbytek infrastruktury vede k vylidňování obcí. Zavírání místních škol či knihoven podpoříme jen v případech odůvodnených odbornými studiemi. Zanedbání silnic a jiné infrastruktury chápeme jako důsledek špatného hospodaření. Předpokládáme, že námi navrhované otevřené hospodaření přinese úspory, které umožní dlouhodobě dotovat i neziskové, přitom prospěšné, služby a jejich rozvoj. 
   ** **Prosazujeme rovný přístup k veřejným službám.** 
   .. Není pro nás přijatelné, aby se kraj podílel na zvyšování nerovnosti mezi občany v přístupu k cestám, zdravotním zařízením a jiným veřejným službám. Nechceme, aby byly někteří občané v některých oblastech neodůvodněně zvýhodňováni v přístupu k veřejným službám na úkor ostatních. Při plánování infrastruktury budeme brát v úvahu dostupnost služeb, aby nevznikaly vyloučené lokality. 
-  ** **Stavíme se proti nadbytečnému sledování občanů v případech, kde to není opodstatněné.**
-   .. Nesouhlasíme s nadměrným použitím bezpečnostních kamer, čipových karet a podobných nástrojů, zneužitelných pro sledování. Normální člověk má jen velmi málo možností, jak používat veřejné služby bez sledování.  Místa, kde se vyskytují kamery, musí být označena. Kamery mají opodstatnění jen na některých místech (bankomaty, zlatnictví, nebezpečná místa). Jinde občany obtěžují, aniž by přispívaly k objasňování zločinů. 
+  ** **Stavíme se proti sledování občanů v případech, kde to není opodstatněné.**
+   .. Nesouhlasíme s nadměrným použitím bezpečnostních kamer, čipových karet a podobných nástrojů, zneužitelných pro sledování. Většina lidí má jen velmi málo možností, jak používat veřejné služby bez sledování.  Místa, kde se vyskytují kamery, musí být označena. Kamery mají opodstatnění jen na některých místech (bankomaty, zlatnictví, nebezpečná místa). Jinde občany obtěžují, aniž by přispívaly k objasňování zločinů. 
 
 ==== Dopravní infrastruktura s koncepcí a rozmyslem ====
 
@@ -105,7 +105,7 @@
   ** **Pro cestovní ruch podporujeme zviditelňování kulturních akcí.**
    .. Dnes se jezdí hlavně na větší akce v krajských městech, my je chceme rozšířit i do menších měst. Pořadatelé akcí by o dotace z krajského rozpočtu měli soutěžit v průhledných grantových řízeních.
   ** **Prosazujeme transparentní nakládání s dotacemi EU na regionální rozvoj.**
-   .. Evropské dotace mají být využívány na projekty prospěšné co nejvíce lidem, ne na golfová hřiště či soukromé zámečky, z kterých mají užitek jen někteří. Toho lze dosáhnout transparentním nakládáním s nimi, spojeným s větším důrazem na názor občanů.
+   .. Evropské dotace mají být využívány na projekty prospěšné co nejvíce lidem, ne na golfová hřiště či soukromé zámečky, ze kterých mají užitek jen někteří. Toho lze dosáhnout transparentním nakládáním s nimi, spojeným s větším důrazem na názor občanů.
   ** **Za efektivní nástroj považujeme sdílení osvědčených projektů mezi kraji, obcemi a přes hranice.**
    .. Není potřeba vynalézat kolo. Pokud je nějaký projekt úspěšný, měl by být dostatečně propagován, aby ho mohly realizovat ostatní kraje či obce. Proto podporujeme jejich vzájemnou větší komunikaci. Užitečné je také čerpat inspiraci ze zahraničí, kde mají často větší zkušenosti.
 
@@ -129,7 +129,7 @@
 
 ==== Internet pro všechny ====
   ** **Podporujeme volnou přístupnost Internetu ve veřejných prostorách a prostranstvích i v domácnostech.**
-   .. Internet je v dnešní době stejně důležitý jako voda a elektřina.  Dostupný Internet lidem usnadňuje hledání práce a poskytuje jim přístup k informacím. Budeme směřovat investice do infrastruktury, odstraňování bariér a vhodného územního plánování; vytvoříme tak podmínky pro rychlý a dostupný Internet. 
+   .. Internet začíná být pro způsob života většiny lidí tak nepostradatelný jako kdysi voda a elektřina. Dostupný Internet lidem usnadňuje hledání práce a poskytuje jim přístup k informacím. Budeme směřovat investice do infrastruktury, odstraňování bariér a vhodného územního plánování; vytvoříme tak podmínky pro rychlý a dostupný Internet. 
    .. Budeme zavádět wi-fi připojení ve veřejných budovách. Chceme též podporovat sdružení poskytující volný přístup k Internetu, kterých již dnes existuje mnoho; chceme je propagovat, pomáhat jim s rozvojem a zároveň podporovat zakládání nových. 
   ** **Zastavíme samoúčelné a předražené projekty v oblasti informačních technologií.**
    .. Místo  šetření na lidech zastavíme utrácení peněz za předražená technická řešení informační infrastruktury. Poučíme se v zahraničí, především u našich západních sousedů, kde řešení e-governmentu založená na svobodném softwaru šetří ročně miliony eur.
@@ -178,7 +178,7 @@
 
 === Kvalita a osobní přístup v sociálních službách  ====
    ** **Stejně jako pro kvalitní zdravotní péči nestačí vždy jen pobyt v nemocnici, pro kvalitní sociální péči o seniory nestačí domov důchodců. Při poskytování péče podporujeme osobní přístup.**
-   .. Současný přístup zdravotnických a sociálních zařízení ke klientům je v některých případech neosobní. V řadě případů stav klienta umožňuje, aby nebyl zavřený v nemocnici nebo v domově důchodců, ale není k dispozici podpora pro takovou péči. Proto jsme pro to, aby se při plánování krajské zdravotní a sociální péče brala v úvahu vedle klasických porodnic také centra aktivního porodu, vedle domovů důchodců pomocné pečovatelské služby a vedle nemocniční péče i domácí ošetřování, kdykoliv mají lidé o takové služby zájem.
+   .. Současný přístup zdravotnických a sociálních zařízení ke klientům je v některých případech neosobní. V řadě případů stav klienta umožňuje, aby nebyl zavřený v nemocnici nebo v domově důchodců, ale není k dispozici podpora pro takovou péči. Prosazujeme tedy, aby se při plánování krajské zdravotní a sociální péče brala v úvahu vedle klasických porodnic také centra aktivního porodu, vedle domovů důchodců pomocné pečovatelské služby a vedle nemocniční péče i domácí ošetřování, kdykoliv mají lidé o takové služby zájem.
   ** **Kraj by měl prosazovat rovné zacházení a aktivně předcházet sociálnímu vyloučení.**
    .. Pro zajištění rovnoprávnosti je potřeba dlouhodobé řešení, nikoliv nařízení a kvóty. Podporujeme dlouhodobé nástroje, které odstraňují sociální vyloučení (vzdělání, komunitní centra, důsledné potírání trestné činnosti). 
   ** **Klíčové jsou zejména kvalitní a všeobecně dostupné veřejné služby.**
@@ -218,4 +218,4 @@
    ** **Budeme prosazovat rozumnou a střídmou urbanizaci měst a obcí, která nebude představovat zbytečnou zátěž pro životní prostředí, zejména ovzduší a krajinu.** 
    .. Prosazujeme, aby nové stavby kreativně využívaly opuštěné plochy („brownfields“) a aby měla v městech před průmyslovými skladišti přednost moderní architektura a kultura. Lidé by měli mít možnost aktivně se zapojit do projednávání otázek týkajících se územního plánování, krajiny a životního prostředí a také vyvolat o těchto otázkách referendum. 
   ** **Nebudeme svítit pánubohu do oken.** 
-   .. Našim cílem je úprava osvětlení tak, aby opravdu plnilo svůj účel. Špatně navržené osvětlení zvyšuje finanční náklady, protože zbytečně spotřebovávají energii. Vedle toho může mít nadměrné osvětlení i špatný vliv na zdravý spánek obyvatel. Pokud se nám podaří zavést kvalitní a cílené osvětlení, třeba pak naše děti uvidí ta malá světélka, která se nazývají hvězdy.
+   .. Našim cílem je úprava osvětlení tak, aby opravdu plnilo svůj účel. Špatně navržené osvětlení zvyšuje finanční náklady, protože zbytečně spotřebovává energii. Vedle toho může mít nadměrné osvětlení i špatný vliv na zdravý spánek obyvatel. Pokud se nám podaří zavést kvalitní a cílené osvětlení, třeba pak naše děti uvidí ta malá světélka, která se nazývají hvězdy.
