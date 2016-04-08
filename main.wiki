@@ -129,7 +129,7 @@
 
 ==== Internet pro všechny ====
   ** **Podporujeme volnou přístupnost Internetu ve veřejných prostorách a prostranstvích i v domácnostech.**
-   .. Internet začíná být pro způsob života většiny lidí tak nepostradatelný jako kdysi voda a elektřina. Dostupný Internet lidem usnadňuje hledání práce a poskytuje jim přístup k informacím. Budeme směřovat investice do infrastruktury, odstraňování bariér a vhodného územního plánování; vytvoříme tak podmínky pro rychlý a dostupný Internet. 
+   .. Stejně tak, jako se kdysi staly nepostradatelnými vodovody a elektrická síť, začíná být i Internet nepostradatelný pro způsob života většiny lidí. Dostupný Internet lidem usnadňuje hledání práce a poskytuje jim přístup k informacím. Budeme směřovat investice do infrastruktury, odstraňování bariér a vhodného územního plánování; vytvoříme tak podmínky pro rychlý a dostupný Internet. 
    .. Budeme zavádět wi-fi připojení ve veřejných budovách. Chceme též podporovat sdružení poskytující volný přístup k Internetu, kterých již dnes existuje mnoho; chceme je propagovat, pomáhat jim s rozvojem a zároveň podporovat zakládání nových. 
   ** **Zastavíme samoúčelné a předražené projekty v oblasti informačních technologií.**
    .. Místo  šetření na lidech zastavíme utrácení peněz za předražená technická řešení informační infrastruktury. Poučíme se v zahraničí, především u našich západních sousedů, kde řešení e-governmentu založená na svobodném softwaru šetří ročně miliony eur.
