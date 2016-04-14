@@ -88,7 +88,6 @@
    ** **Odmítáme současnou praxi, kdy jsou nepromyšleně rušeny železniční tratě bez vyčíslování úspor, kterých se tím  dosáhne, bez plánů, jak se zrušenou tratí naložit, a bez propočtu nákladů na možnou výstavbu tratě v budoucnosti.**
    .. V České republice existuje hustá železniční síť. V posledních letech se tato síť postupně odstraňuje, zatímco výstavba silnic roste. Piráti se zasazují o průhledné a odůvodněné plánování a výstavbu dopravní infrastruktury. Jako logická první možnost se nabízí využití již  existujících dopravních sítí. Na železnici je však potřeba větší soutěž mezi dopravci a využití pro přepravu zboží. 
    ** **U dopravní stavby je nutné nejprve doložit její skutečnou  užitečnost, teprve poté ji celou připravit, zajistit pozemky a až následně začít stavět.**
-   .. Chceme rozvíjet univerzální integorvané platební systémy veřejné dopravy a systém poskytování dat o prostředcích veřejné dopravy tak, aby data mohly využívat komerční i nekomerční aplikace.
    .. Celý proces plánování a výstavby velkých dopravních staveb je třeba zásadně změnit. Skoncujeme se současnou praxí, kdy se staví odnikud nikam, případně stát až v průběhu výstavby zjišťuje, že nevykoupil všechny potřebné pozemky. Do připomínkování dopravních staveb chceme zapojit veřejnost a neziskové organizace. 
 
 ==== Zlepšíme dopravní obslužnost ====
@@ -97,6 +96,7 @@
    .. Nechceme nutit lidi k tomu, aby využívali určitý způsob přepravy. Naopak jim chceme otevřít řadu možností, ze kterých si budou moci vybrat. Proto je potřeba s cyklisty a chodci počítat už při plánování dopravních staveb. U stávajících silnic je potřeba vyřešit krizová místa tak, aby cyklostezky a cyklotrasy náhle nekončily. 
    ** **Piráti prosazují propojování jednotlivých složek veřejné dopravy, tedy propojení dopravy autobusové, vlakové a městské hromadné. Musí probíhat na principu otevřených standardů a nemá končit na hranici kraje.**
    .. Chceme dosáhnout stavu, kdy si člověk při nástupu do místního autobusu bude moci koupit lístek, který mu vydrží až do centra velkého  města, a to i v případě, že během cesty využije vlak. Propojování  dopravních systémů není rozumné zavádět pomocí velikášských projektů typu Opencard. Lepší je nabídnout jednotlivým přepravcům otevřený systém, ke kterému se mohou přidat. 
+   .. Budeme poskytovat data o prostředcích veřejné dopravy tak, aby je mohly využívat různé komerční i nekomerční aplikace.
 
 ==== Využijeme příležitosti pro cestovní ruch ====
 
