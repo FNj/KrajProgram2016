@@ -59,7 +59,7 @@
   ** **Zásady územního rozvoje a související územní plány budeme graficky  prezentovat na webu.**
    .. Stejně přehledně jako u textových informací chceme prezentovat návrhy zásad  územního rozvoje a příslušných územních plánů, aby byly přehledně a rychle pro občany dostupné. Vedle toho musí existovat možnost se přihlásit k odběru aktualizací v okolí svého bydliště.
   ** **Spustíme portál otevřených dat.**
-   .. Informace budeme zveřejňovat ve formátu otevřených dat. Budou tak strojově čitelné a kdokoliv s nimi bude moci dále pracovat. Podpoříme tím vývoj různých aplikací veřejným i soukromým sektorem a zvýšíme celkovou informovanost o kraji.
+   .. Informace budeme zveřejňovat ve formátu otevřených dat. Budou tak strojově čitelné a kdokoliv s nimi bude moci dále pracovat. Při vývoji portálu budeme spolupracovat a inspirovat se u jiných kde to již funguje, například s členy spolku [[http://www.otevrenamesta.cz/|Otevřená města]].  Podpoříme tím vývoj různých aplikací veřejným i soukromým sektorem a zvýšíme celkovou informovanost o kraji.
 
 ==== Vyjdeme vstříc aktivním občanům  ====
   ** **Podporujeme skutečné krajské referendum a občanskou iniciativu.**
@@ -175,7 +175,7 @@
   ** **Hlavním problémem zdravotnictví je korupce a s ní spojené zbytečné výdaje.**
    .. Kraje jsou zřizovateli krajských nemocnic. Prosazujeme zavedení  modelu [[:program:transparence|transparentní organizace]]. To znamená, že nemocnice by měly povinnost zveřejňovat všechny smlouvy na Internetu a vedly otevřené účetnictví. Zveřejněny nebudou jen ty informace, které zákon o svobodném přístupu k informacím zveřejnit neumožňuje (soukromí - osobní údaje). Vedle transparentního financování odstraníme závislost na konkrétních dodavatelích, ať už právní nebo faktickou, např. podpoříme rozšíření svobodného softwaru.
 
-=== Kvalita a osobní přístup v sociálních službách  ====
+==== Kvalita a osobní přístup v sociálních službách  ====
    ** **Stejně jako pro kvalitní zdravotní péči nestačí vždy jen pobyt v nemocnici, pro kvalitní sociální péči o seniory nestačí domov důchodců. Při poskytování péče podporujeme osobní přístup.**
    .. Současný přístup zdravotnických a sociálních zařízení ke klientům je v některých případech neosobní. V řadě případů stav klienta umožňuje, aby nebyl zavřený v nemocnici nebo v domově důchodců, ale není k dispozici podpora pro takovou péči. Prosazujeme tedy, aby se při plánování krajské zdravotní a sociální péče brala v úvahu vedle klasických porodnic také centra aktivního porodu, vedle domovů důchodců pomocné pečovatelské služby a vedle nemocniční péče i domácí ošetřování, kdykoliv mají lidé o takové služby zájem.
   ** **Kraj by měl prosazovat rovné zacházení a aktivně předcházet sociálnímu vyloučení.**
