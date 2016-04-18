@@ -59,7 +59,7 @@
   ** **Zásady územního rozvoje a související územní plány budeme graficky  prezentovat na webu.**
    .. Stejně přehledně jako u textových informací chceme prezentovat návrhy zásad  územního rozvoje a příslušných územních plánů, aby byly přehledně a rychle pro občany dostupné. Vedle toho musí existovat možnost se přihlásit k odběru aktualizací v okolí svého bydliště.
   ** **Spustíme portál otevřených dat.**
-   .. Informace budeme zveřejňovat ve formátu otevřených dat. Budou tak strojově čitelné a kdokoliv s nimi bude moci dále pracovat. Podpoříme tím vývoj různých aplikací veřejným i soukromým sektorem a zvýšíme celkovou informovanost o kraji.
+   .. Informace budeme zveřejňovat ve formátu otevřených dat. Budou tak strojově čitelné a kdokoliv s nimi bude moci dále pracovat. Při vývoji portálu budeme spolupracovat a inspirovat se u jiných kde to již funguje, například s členy spolku [[http://www.otevrenamesta.cz/|Otevřená města]].  Podpoříme tím vývoj různých aplikací veřejným i soukromým sektorem a zvýšíme celkou informovanost o kraji.
 
 ==== Vyjdeme vstříc aktivním občanům  ====
   ** **Podporujeme skutečné krajské referendum a občanskou iniciativu.**
